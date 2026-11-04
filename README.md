@@ -61,8 +61,8 @@ The API key lives only in a server-side environment variable and is never expose
 ### Run Locally
 
 ```bash
-git clone <https://github.com/yuru919hsu-oss/kpop-korean-tutor.git>
-cd <kpop-korean-tutor>
+git clone https://github.com/yuru919hsu-oss/kpop-korean-tutor.git
+cd kpop-korean-tutor
 pnpm install
 ```
 
