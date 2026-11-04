@@ -61,8 +61,8 @@ API 金鑰只存在伺服器端環境變數，不會暴露給瀏覽器。詳細�
 ### 步驟
 
 ```bash
-git clone <你的 repo 網址>
-cd <資料夾名稱>
+git clone https://github.com/yuru919hsu-oss/kpop-korean-tutor.git
+cd kpop-korean-tutor
 pnpm install
 ```
 
